@@ -189,6 +189,18 @@ function App() {
         </Button>
       </header>
       
+      {/* Socratic Method explanation */}
+      <div className="bg-secondary/20 p-4 border-b border-border">
+        <div className="max-w-3xl mx-auto">
+          <p className="text-sm text-foreground/90 font-inter">
+            The <span className="font-medium">Socratic Method</span> is a form of cooperative dialogue where questions are used to stimulate critical thinking 
+            and draw out ideas. Rather than providing answers, it helps people discover insights by examining their own beliefs and reasoning. 
+            This method is remarkably effective because knowledge earned through self-discovery creates deeper understanding 
+            and stronger ownership of ideas than knowledge simply delivered through instruction.
+          </p>
+        </div>
+      </div>
+      
       {/* Main content */}
       <div className="flex flex-1 overflow-hidden">
         {/* Sidebar */}

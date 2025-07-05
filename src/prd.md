@@ -19,17 +19,22 @@
   3. User's "aha moment" when they discover a new insight through self-reflection
 
 ## Essential Features
-1. **Chat Interface**
+1. **Educational Blurb**
+   - What: Brief explanation of the Socratic Method and its effectiveness
+   - Why: Provides context for users unfamiliar with the method and sets expectations
+   - Success: Users understand the purpose and value of question-based dialogue
+   
+2. **Chat Interface**
    - What: Clean, minimalist conversation UI with user and Socrates messages
    - Why: Provides familiar interaction model that focuses on the dialogue
    - Success: Users can easily distinguish their messages from Socrates' questions
    
-2. **Conversation History**
+3. **Conversation History**
    - What: Persistence of the entire conversation
    - Why: Allows users to review their thought process and evolution of ideas
    - Success: Full conversation is preserved between sessions
 
-3. **Topic Management**
+4. **Topic Management**
    - What: Ability to start new conversations on different topics
    - Why: Teams will use the tool for multiple challenges/ideas
    - Success: Users can clearly separate different conversation threads
