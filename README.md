@@ -1,6 +1,6 @@
 # Socrates: No Answers. Only questions.
 
-Ever feel stuck on a problem? **Socrates** is an AI chatbot that helps you think things through and come up with great ideas. It works by using the **Socratic method**, which means it only asks questions—never gives answers. The goal is to help you find your own solutions, challenge your assumptions, and look at things in a new way.
+**Socrates** is an AI chatbot that helps you think things through and come up with great ideas. It works by using the **Socratic method**, which means it only asks questions—never gives answers. The goal is to help you find your own solutions, challenge your assumptions, and look at things in a new way.
 
 ---
 
