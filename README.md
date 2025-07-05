@@ -80,8 +80,7 @@ What makes you so sure that more time in the app automatically leads to them doi
 
 ## How to Get Started 🚀
 
-Just jump in! Give Socrates the system prompt above and start chatting. Or try it out live [here](https://socrates-the-questio--dvelton.github.app)
-If you don’t give it a starting topic, it’ll kick things off by asking:
+Just jump in! Give Socrates the system prompt above and start chatting. Or try it out live [here](https://socrates-the-questio--dvelton.github.app). If you don’t give it a starting topic, it’ll kick things off by asking:
 
 > *“What is the main challenge or opportunity you’re exploring?”*
 
