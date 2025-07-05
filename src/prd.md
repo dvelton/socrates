@@ -1,4 +1,4 @@
-# Socrates: Internal Ideation Chatbot PRD
+# Socrates PRD
 
 ## Core Purpose & Success
 - **Mission Statement**: A chatbot that leads teams to discover insights and refine ideas using only the Socratic method of questioning.
