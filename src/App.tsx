@@ -176,7 +176,7 @@ function App() {
       <header className="flex items-center justify-between border-b border-border p-4">
         <div className="flex items-center">
           <h1 className="text-2xl font-playfair font-semibold text-primary">Socrates</h1>
-          <span className="ml-2 text-sm text-muted-foreground">The Socratic Method Chatbot</span>
+          <span className="ml-2 text-sm text-muted-foreground">No answers. Only questions.</span>
         </div>
         <Button 
           variant="ghost" 
